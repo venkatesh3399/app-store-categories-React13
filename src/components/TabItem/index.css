@@ -1,0 +1,14 @@
+.button {
+  cursor: pointer;
+  outline: none;
+  background-color: transparent;
+  border: none;
+  margin-right: 10px;
+  color: #7b8794;
+  font-size: 18px;
+}
+
+.act-tab-btn {
+  border-bottom: 1px solid #2563eb;
+  color: #2563eb;
+}
